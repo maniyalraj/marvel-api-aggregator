@@ -1,0 +1,46 @@
+# SBT directories
+target/
+lib/
+project/target/
+project/project/
+
+# Scala IDE
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Intellij IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# SBT global directory
+.sbt/
+.history
+
+# Log files
+*.log
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+
+# IntelliJ IDEA's project configuration files
+*.iml
+.idea/
+
+# SBT's local resolver cache
+.ivy2/
+
+# Dependency jars in lib
+lib_managed/

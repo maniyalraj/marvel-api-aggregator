@@ -7,6 +7,7 @@ project/project/
 # Scala IDE
 .idea/
 *.iml
+.bsp
 
 # Eclipse
 .settings/
